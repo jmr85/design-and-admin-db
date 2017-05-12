@@ -1,2 +1,2 @@
-# dise-o-y-admin-db
+# diseño y administracion de base de datos
 Materia de IRSO - Para subir TPs
